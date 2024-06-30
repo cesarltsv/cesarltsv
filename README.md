@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antonio Cezar</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<div style=" border: 1px solid red;">
-  <img src="https://i.pinimg.com/originals/77/a1/f1/77a1f11fa4ff98b85a6bac5f7b7ffc05.gif" alt="img" width="100%"/>
-</div>
+
+<img src="https://i.pinimg.com/originals/77/a1/f1/77a1f11fa4ff98b85a6bac5f7b7ffc05.gif" alt="img" width="100%"/>
+
 - 🔭 I’m currently working on **F1rst Tecnologia São Paulo**
 - 🌱 I’m currently learning **Go Lang - React Native - Angular 18**
 
