@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Cezar</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<img src="https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2015/09/japaogif8.gif?resize=500%2C291&ssl=1" alt="img"/>
+<img src="https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2015/09/japaogif8.gif?resize=500%2C291&ssl=1" alt="img" width="100%"/>
 - 🔭 I’m currently working on **F1rst Tecnologia São Paulo**
 
 - 🌱 I’m currently learning **Go Lang - React Native - Angular 18**
