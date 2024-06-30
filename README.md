@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Cezar</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAnemoia%2Fcomments%2Fodntom%2Fpixel_art_gifs_i_found_on_google%2F&psig=AOvVaw0TRzgJF5MQKOG7F2DhHxZO&ust=1719869079866000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjmsN6hhIcDFQAAAAAdAAAAABAc" alt="img"/>
+<img src="https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2015/09/japaogif8.gif?resize=500%2C291&ssl=1" alt="img"/>
 - 🔭 I’m currently working on **F1rst Tecnologia São Paulo**
 
 - 🌱 I’m currently learning **Go Lang - React Native - Angular 18**
