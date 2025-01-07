@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,golang,nestjs,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=angular,react,golang,kubernetes,docker,cs" />
   </a>
 </p>
 
