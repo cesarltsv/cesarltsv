@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on **F1rst Tecnologia São Paulo**
-- 🌱 I’m currently learning **Go Lang - React Native - Angular 18**
+- 🌱 I’m currently learning **C# - Angular 18**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **Angular and React**
 - 📫 How to reach me **cezarltsv@gmail.com**
